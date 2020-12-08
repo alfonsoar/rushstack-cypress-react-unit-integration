@@ -1,0 +1,4 @@
+{
+  "extends": "./node_modules/rush-rig/library/tsconfig-base.json",
+  "include": ["./src/**/*"]
+}
